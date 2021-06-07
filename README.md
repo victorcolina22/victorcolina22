@@ -1,5 +1,8 @@
 ### Hi there, is Victor here!:v::smile:
 
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcolina22&show_icons=true&theme=tokyonight)
+
+
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
